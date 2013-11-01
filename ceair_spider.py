@@ -48,7 +48,6 @@ def ceair_spider(dept,arr,sta=0,ran=1):
         values['searchCond'] = values['searchCond'].replace('DATE',str(date))
         try:
             print "正在抓取"+date+"的机票信息..."
-#            raise urllib2.URLError
             #对values进行url编码
             data = urllib.urlencode(values)
             #建立一个request类型的对象
@@ -83,7 +82,7 @@ def ceair_spider(dept,arr,sta=0,ran=1):
             writeErr(temp,'json解析失败',date,dept,arr)
             continue
         
-        try:      
+        try:     
             #提取所需信息
             for a in range(len(text['tripItemList'][0]['airRoutingList'])):
                 #某一航班
@@ -108,12 +107,14 @@ def ceair_spider(dept,arr,sta=0,ran=1):
                 flight.append(time.strftime('%Y-%m-%d',time.localtime(time.time())))
                 flight = tuple(flight)
                 #测试#    输出观察用
-                print flight
+                #print flight
                 flights.append(flight)
-            print '抓取成功'
-            time.sleep(1) 
         except:
             print '提取信息失败！'
             writeErr(temp,'提取信息失败',date,dept,arr)
+            continue
+        print '抓取成功'
+        time.sleep(1) 
+    return flights
             
-ceair_spider('PEK','SHA',sta=0,ran=2)
+ceair_spider('PEK','SHA',sta=2,ran=1)
