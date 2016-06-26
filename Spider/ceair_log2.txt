@@ -1,0 +1,45 @@
+2014-05-30 23 47 56 the spider has been started.
+2014-05-30 23 51 24 the spider has been started.
+Finished. Time used:16.8780045712
+2014-05-30 23 53 04 the spider has been started.
+Finished. Time used:14.0671280079
+2014-05-30 23 53 39 the spider has been started.
+Finished. Time used:11.3175882931
+2014-05-30 23 57 38 the spider has been started.
+Finished. Time used:13.8334695819
+2014-05-31 00 02 08 the spider has been started.
+Finished. Time used:11.0860168799
+2014-05-31 00 02 40 the spider has been started.
+Finished. Time used:16.3033687609
+2014-05-31 00 03 51 the spider has been started.
+Finished. Time used:13.4347537396
+2014-05-31 00 04 35 the spider has been started.
+Finished. Time used:10.7291742712
+2014-05-31 12 25 54 the spider has been started.
+Finished. Time used:12.2516941083
+2014-05-31 12 26 18 the spider has been started.
+Finished. Time used:19.5345068858
+2014-05-31 12 30 33 the spider has been started.
+Finished. Time used:15.812678882
+2014-05-31 12 30 59 the spider has been started.
+Finished. Time used:58.9180687924
+2014-05-31 12 41 00 the spider has been started.
+Finished. Time used:59.89054539
+2014-05-31 12 58 32 the spider has been started.
+Finished. Time used:61.8721522783
+2014-05-31 13 02 18 the spider has been started.
+Finished. Time used:0.00435385599834
+2014-05-31 13 02 35 the spider has been started.
+Finished. Time used:64.4320312967
+2014-05-31 13 25 24 the spider has been started.
+Finished. Time used:9.67264152375
+2014-05-31 13 26 02 the spider has been started.
+Finished. Time used:9.82940577474
+2014-05-31 13 27 16 the spider has been started.
+Finished. Time used:78.2196959217
+2014-05-31 14 17 07 the spider has been started.
+Finished. Time used:84.500921909
+2014-05-31 15 39 21 the spider has been started.
+Finished. Time used:65.5741815491
+2014-05-31 16 10 41 the spider has been started.
+Finished. Time used:36.875388777
